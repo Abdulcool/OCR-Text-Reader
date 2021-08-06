@@ -17,3 +17,5 @@ STEP#3: INSTALL LIBRARIES
 pip install pillow
 
 pip install pytesseract
+
+[You can also see this video tutorial for help](https://www.youtube.com/watch?v=KuLXmbWJkhY)
